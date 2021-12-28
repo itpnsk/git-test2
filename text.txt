@@ -2,4 +2,8 @@ text1
 text2
 text3
 text4 niko
+<<<<<<< HEAD
 text5 😏 test
+=======
+text5 😏😏😏😏
+>>>>>>> 7ca76a4d0c0746b1defee7501e1a7834c7e2ada4
